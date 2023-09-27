@@ -51,6 +51,7 @@ const submit = async () => {
     name:name.value, price:price.value
   };
 }
+
 </script>
 
 
